@@ -57,15 +57,10 @@ const styles = StyleSheet.create({
   //backgroundColor: 'white',
     flex: 1,
     justifyContent: 'center',
-  //alignContent: 'center'
-  //flexDirection: 'row', 
   },
   imageList: {
     flex: 1,
     padding: 4,
- // backgroundColor: 'pink',
-  //flexDirection: 'row',
-  //alignSelf: 'center',
   },
   imageContainer: {
     backgroundColor: 'white',

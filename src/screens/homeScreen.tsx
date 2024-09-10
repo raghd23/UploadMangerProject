@@ -303,17 +303,6 @@ export default function HomeScreen() {
           <Icon name="videocam-outline" style={styles.actionButtonIcon} />
         </ActionButton.Item>
       </ActionButton>
-      {/* {response?.assets &&
-        response.assets.map(({ uri }) => (
-          <View key={uri} style={styles.imageContainer}>
-            <Image
-              resizeMode="cover"
-              resizeMethod="scale"
-              style={styles.image}
-              source={{ uri: uri }}
-            />
-          </View>
-        ))} */}
     </View>
   );
 }

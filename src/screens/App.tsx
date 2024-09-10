@@ -13,7 +13,6 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/Ionicons';
 import ActionButton from 'react-native-action-button';
-import UploadScreen from './uploadScreen';
 import HomeScreen from './homeScreen';
 import DisplayScreen from './DisplayScreen';
 import { getStorage } from '@react-native-firebase/storage';
