@@ -39,12 +39,12 @@ interface DocWithId extends DocumentData {
 }
 
 const firebaseConfig: FirebaseConfig = {
-  apiKey: "AIzaSyDej_ifBKGjyczAGtpXe32JqvGrqVskv9M",
-  authDomain: "awesomeproject-1c000.firebaseapp.com",
-  projectId: "awesomeproject-1c000",
-  storageBucket: "awesomeproject-1c000.appspot.com",
-  messagingSenderId: "906492283572",
-  appId: "1:906492283572:android:bc0171efc651e5d7df65e1",
+  apiKey: "/",
+  authDomain: "/",
+  projectId: "/",
+  storageBucket: "/",
+  messagingSenderId: "/",
+  appId: "/",
 };
 
 
